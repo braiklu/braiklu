@@ -1,8 +1,8 @@
-### Olá, eu sou o Lucas Braich! 👋
 <div align="center">
-  <a href="https://github.com/braiklu/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braiklu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
+
+<h1 align="center">Olá, eu sou o Lucas Braich</h1>
+<h3 align="center">SAP ABAP Developer</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Braik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
