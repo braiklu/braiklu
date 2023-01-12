@@ -11,7 +11,7 @@
   <img align="center" alt="Braik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Braik-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Braik-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Braik-SAP" height="30" width="40" src="https://logospng.org/wp-content/uploads/sap.png">
+  <img align="center" alt="Braik-SAP" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2014/04/sap-logo.png">
 </div>
 
 ##
